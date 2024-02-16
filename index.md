@@ -9,3 +9,5 @@ world.
 ### my third level header
 
 Adios
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
