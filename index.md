@@ -17,3 +17,8 @@ export FOO=bar
 ls -la /tmp
 find /tmp -name \*.py -print
 ```
+
+- [ ] task 1
+- [ ] task 2
+- [ ] task 3
+- [ ] task 4
