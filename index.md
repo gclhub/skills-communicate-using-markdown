@@ -11,3 +11,9 @@ world.
 Adios
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```shell
+export FOO=bar
+ls -la /tmp
+find /tmp -name \*.py -print
+```
